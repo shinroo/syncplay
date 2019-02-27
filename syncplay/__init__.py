@@ -1,5 +1,5 @@
 version = '1.6.3'
 revision = ' beta'
-milestone = 'Yoitsu'
+milestone = 'macOS_legacy'
 release_number = '74'
 projectURL = 'https://syncplay.pl/'
